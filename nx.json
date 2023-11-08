@@ -53,5 +53,6 @@
       "style": "scss"
     }
   },
-  "nxCloudAccessToken": "YzY4ZDZkOTEtNjg0ZC00YTk2LTk5YWUtODIzNWE4OTEwODZmfHJlYWQtd3JpdGU="
+  "nxCloudAccessToken": "YzY4ZDZkOTEtNjg0ZC00YTk2LTk5YWUtODIzNWE4OTEwODZmfHJlYWQtd3JpdGU=",
+  "defaultProject": "angular-portfolio"
 }
