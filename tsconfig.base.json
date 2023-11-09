@@ -14,7 +14,11 @@
     "skipLibCheck": true,
     "skipDefaultLibCheck": true,
     "baseUrl": ".",
-    "paths": {}
+    "paths": {
+      "@angular-portfolio/portfolio-image": [
+        "libs/data/schema/ui/images/src/index.ts"
+      ]
+    }
   },
   "exclude": ["node_modules", "tmp"]
 }
